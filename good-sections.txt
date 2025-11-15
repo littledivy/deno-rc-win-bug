@@ -1,0 +1,13 @@
+
+deno.exe:	file format coff-x86-64
+
+Sections:
+Idx Name          Size     VMA              Type
+  0 .text         047887b6 0000000140001000 TEXT
+  1 malloc_h      00000130 000000014478a000 TEXT
+  2 .rdata        02593fa6 000000014478b000 DATA
+  3 .data         000aac00 0000000146d1f000 DATA
+  4 .pdata        00329064 0000000146df7000 DATA
+  5 .fptable      00000100 0000000147121000 DATA
+  6 .rsrc         0001b240 0000000147122000 DATA
+  7 .reloc        00057c3c 000000014713e000 DATA
